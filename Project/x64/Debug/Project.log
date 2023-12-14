@@ -1,0 +1,5 @@
+﻿  Sequential_stack.cpp
+  main.cpp
+  正在生成代码...
+D:\my_file_\C\2023.10.19.括号匹配\Project\Sequential_stack.cpp(34): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+  Project.vcxproj -> D:\my_file_\C\2023.10.19.括号匹配\Project\x64\Debug\Project.exe
